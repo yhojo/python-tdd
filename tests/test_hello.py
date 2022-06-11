@@ -1,6 +1,6 @@
 from unittest import TestCase
 
-from context import hello
+from sample import hello
 
 
 class TestHello(TestCase):
